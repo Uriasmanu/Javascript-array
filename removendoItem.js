@@ -7,4 +7,4 @@ notas.pop();
 console.log(notas)
 const media = (notas[0] + notas[1] + notas[2] + notas[3]);
 
-console.log(`A media é $(media)`)
+console.log(`A media é ${media}`)
